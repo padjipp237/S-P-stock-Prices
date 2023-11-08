@@ -1,7 +1,6 @@
 --Brief database overview
 SELECT * FROM PortfolioProjects..['S&P 500 Stock Prices 2014-2017$']
-where symbol = 'CHK'
-order by date 
+order by date asc
 
 -------------------------------------------------------------------------------------------------------------------------------------------------|
 --Q1) Which date in the sample saw the largest overall trading volume?
